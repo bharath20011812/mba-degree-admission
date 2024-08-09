@@ -806,8 +806,7 @@ section.thank-pag.py-5 {
     }
 
     .banner-form {
-        width: 60%;
-        margin-top: 60px;
+        width: 80%;
     }
 
     .banner-main {
@@ -817,7 +816,7 @@ section.thank-pag.py-5 {
 
     .banner-left.col-lg-8 {
         width: 100%;
-        margin-bottom: 30px;
+        margin-bottom: 20px;
         padding: 0;
     }
 
@@ -920,7 +919,6 @@ section.thank-pag.py-5 {
 
     .banner-left.col-lg-8 {
         width: 100%;
-        margin-bottom: 80px;
         padding: 0;
     }
 
@@ -1052,5 +1050,11 @@ section.thank-pag.py-5 {
     .banner-subcont h4 {
         font-size: 20px;
     }
-
+    .banner-main .banner-offer p span {
+        margin-left: 10px;
+        font-size: 16px;
+    }
+    .banner-main .banner-offer p {
+        margin-left: 12px;
+    }
 }
