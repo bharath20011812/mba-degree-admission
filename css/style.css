@@ -128,14 +128,8 @@ section.header-sec {
 .banner-form h3 {
     text-align: center;
     color: #fff;
-    font-size: 30px;
-}
-
-.banner-form p {
-    text-align: center;
-    color: #fff;
-    margin: 10px 0 30px;
     font-size: 25px;
+    margin-bottom: 30px;
 }
 
 .banner-form {
@@ -151,7 +145,7 @@ section.header-sec {
 }
 
 .banner-left h1 {
-    font-size: 35px;
+    font-size: 45px;
     color: #fff;
     margin-bottom: 25px;
     font-weight: 600;
@@ -212,12 +206,11 @@ section.header-sec {
 }
 
 .banner-left h1 .mab-h1 {
-    font-size: 50px;
+    font-size: 55px;
     color: #F84F0D;
     font-weight: 600;
     letter-spacing: normal;
 }
-
 .nirf-img p {
     font-size: 28px;
 }
@@ -578,8 +571,8 @@ section.footer-sec .footer-main.row {
 }
 
 .book-constmain h3.text-center {
-    text-align: center !important;
     margin: auto;
+    font-size: 25px;
 }
 
 .book-constmain .modal-header {
@@ -858,9 +851,6 @@ section.thank-pag.py-5 {
         gap: 40px;
     }
 
-    .mainsec1 {
-        background-size: 75% 60%;
-    }
 
     .admision-lft,
     .admission-ryt {
@@ -968,7 +958,7 @@ section.thank-pag.py-5 {
 
     .banner-form {
         width: 100%;
-        margin-top: 60px;
+        margin-top: 0px;
     }
 }
 
@@ -981,6 +971,10 @@ section.thank-pag.py-5 {
     .banner-left h2 {
         font-size: 23px;
     }
+    
+    .mainsec1 {
+        background-size:84% 50%;
+    }
 
     .banner-subcont h4 {
         padding: 10px 12px;
@@ -991,6 +985,9 @@ section.thank-pag.py-5 {
         color: #F84F0D;
         font-weight: 600;
         letter-spacing: normal;
+    }
+    .banner-left h1 {
+        font-size: 35px;
     }
 
     .count-outer {
