@@ -675,6 +675,12 @@ section.thank-pag.py-5 {
     .count-outer h2#test {
         font-size: 30px;
     }
+    .banner-form {
+        width: 28%;
+    }
+    .banner-form h3{
+        font-size: 23px;
+    }
 
 }
 
@@ -820,7 +826,8 @@ section.thank-pag.py-5 {
     }
    
     .mainsec1 {
-        background-image: none
+        background-image: none;
+        padding: 30px 0;
     }
     .mainsec1::before {
             background-image: url(../image/mobile-banner.png);
@@ -833,7 +840,6 @@ section.thank-pag.py-5 {
             background-repeat: no-repeat;
             background-position: top right;
             background-size:45%;
-            padding: 30px 0;
 
     }
     .accred-inr {
