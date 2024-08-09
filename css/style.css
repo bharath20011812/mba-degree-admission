@@ -820,6 +820,7 @@ section.thank-pag.py-5 {
         background-size: 60%;
         background-image: url(../image/mobile-banner.png);
         background-position: right top;
+        margin-top: 6rem;
     }
 
     .accred-inr {
@@ -972,22 +973,17 @@ section.thank-pag.py-5 {
         font-size: 23px;
     }
     
-    .mainsec1 {
-        background-size:84% 50%;
-    }
 
     .banner-subcont h4 {
         padding: 10px 12px;
+        font-size: 25px;
+    }
+    .banner-subcont .avil-100{
+        font-size: 30px;
     }
 
-    .banner-left h1 .mab-h1 {
+    .banner-left h1 .mab-h1 ,.banner-left h1{
         font-size: 40px;
-        color: #F84F0D;
-        font-weight: 600;
-        letter-spacing: normal;
-    }
-    .banner-left h1 {
-        font-size: 35px;
     }
 
     .count-outer {
@@ -1023,9 +1019,15 @@ section.thank-pag.py-5 {
 
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 375px) {
     .accred-main img {
         margin-right: 0px;
+    }
+    .banner-left h1 .mab-h1 ,.banner-left h1{
+        font-size: 30px;
+    }
+    .banner-subcont h4 {
+        font-size: 20px;
     }
 
 }
