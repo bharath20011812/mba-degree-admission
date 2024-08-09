@@ -830,7 +830,7 @@ section.thank-pag.py-5 {
             right: 6%;
             background-repeat: no-repeat;
             background-position: top right;
-            background-size: 33%;
+            background-size:40%;
     }
     .accred-inr {
         width: 47%;
@@ -1030,6 +1030,7 @@ section.thank-pag.py-5 {
     .mainsec1::before {
         right: 0%;
         background-size: 50%;
+        
     }
 
 }
