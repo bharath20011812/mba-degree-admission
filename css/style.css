@@ -960,6 +960,11 @@ section.thank-pag.py-5 {
     .banner-form {
         width: 100%;
         margin-top: 0px;
+    }    
+    .mainsec1 {
+        background-size: 45%;
+        margin-top: 6.7rem;
+        padding: 40px 0;
     }
 }
 
