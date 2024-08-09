@@ -120,6 +120,8 @@ section.header-sec {
     align-items: center;
     width: 100%;
     padding: 45px 0 25px;
+    position: relative;
+    z-index: 1;
 }
 
 .banner-left img {
@@ -830,7 +832,7 @@ section.thank-pag.py-5 {
             right: 6%;
             background-repeat: no-repeat;
             background-position: top right;
-            background-size:40%;
+            background-size:45%;
     }
     .accred-inr {
         width: 47%;
@@ -906,8 +908,6 @@ section.thank-pag.py-5 {
         align-items: center;
         width: 100%;
         padding: 10px 0;
-        position: relative;
-        z-index: 1;
     }
 
     .banner-left.col-lg-8 {
